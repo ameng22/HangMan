@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "90F442EA-5A9D-4951-A0FF-38EC6F332E22"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B1D1728-2833-47CC-96CF-FDDCA57D5829"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangMan/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BA1BF8C-BFA8-4FA1-B330-ECCC8D4BD251"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangMan/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6BA1BF8C-BFA8-4FA1-B330-ECCC8D4BD251 - 8a7b58de0ed64cac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.AppDelegate.__allocating_init() -&gt; HangMan.AppDelegate"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "6BA1BF8C-BFA8-4FA1-B330-ECCC8D4BD251 - b4a65ae1b0dddf56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.AppDelegate.init() -&gt; HangMan.AppDelegate"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "6BA1BF8C-BFA8-4FA1-B330-ECCC8D4BD251 - 4329d43c6ab75e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.AppDelegate.__deallocating_deinit"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "6BA1BF8C-BFA8-4FA1-B330-ECCC8D4BD251 - 345a1146b753c225"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DDED2C7-18B8-418D-B33A-2C1D4542ABC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangMan/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8DDED2C7-18B8-418D-B33A-2C1D4542ABC3 - 36a16fa25c55d9c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.ViewController.wins.getter : Swift.Int"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8DDED2C7-18B8-418D-B33A-2C1D4542ABC3 - 57534867ab22faf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.ViewController.wins.setter : Swift.Int"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8DDED2C7-18B8-418D-B33A-2C1D4542ABC3 - 769b7cf5f113fedc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.ViewController.wins.modify : Swift.Int"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8DDED2C7-18B8-418D-B33A-2C1D4542ABC3 - 984fad02205e0208"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.ViewController.wins.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8DDED2C7-18B8-418D-B33A-2C1D4542ABC3 - 8a9b9068cc289834"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HangMan.ViewController"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "8DDED2C7-18B8-418D-B33A-2C1D4542ABC3 - 16e57d09964d1682"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangMan.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HangMan.ViewController&gt;"
+                  moduleName = "HangMan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amengeorge/Desktop/sem2/info%206125-%20ios/HangMan/HangMan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
